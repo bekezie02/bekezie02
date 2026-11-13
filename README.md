@@ -1,4 +1,4 @@
-## Hi there 👋
+Software Engineer specializing in DevOps, cloud infrastructure, and automation. I build scalable solutions across CI/CD, Kubernetes, Infrastructure as Code, and AI, and enjoy sharing my projects with the open-source community.
 
 <!--
 **bekezie02/bekezie02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
